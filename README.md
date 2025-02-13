@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 - 🔭 I’m currently working on Kadence International as Fullstack Developer
-- 🌱 I’m currently learning about Message Broker
+- 🌱 I’m currently learning about React
 - 👯 I’m looking to collaborate on Github, Gitlab, and Bitbucket
 - 💬 Ask me about Information Technology
 
