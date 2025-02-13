@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on Jakarta Experience Board as Backend Developer
+- 🔭 I’m currently working on Kadence International as Fullstack Developer
 - 🌱 I’m currently learning about Message Broker
 - 👯 I’m looking to collaborate on Github, Gitlab, and Bitbucket
 - 💬 Ask me about Information Technology
